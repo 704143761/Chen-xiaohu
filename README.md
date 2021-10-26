@@ -14,6 +14,8 @@
 
 ### 讲义与笔记
 
+这是一个[试验品](https://gitee.com/chenxiaohu11/shuji/raw/master/1.pdf)
+
 ### 发表论文与预印本
 
 目前还没有
